@@ -5,7 +5,6 @@
 
 <div align="center">
 
-<a href="https://github.com/neukg/TechGPT/stargazers">![GitHub Repo stars](https://img.shields.io/github/stars/neukg/TechGPT/?style=social)</a>
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/neukg/TechGPT/blob/main/LICENSE)
 [![Generic badge](https://img.shields.io/badge/🤗-Huggingface%20Repo-green.svg)](https://huggingface.co/neukg)
 </div>
