@@ -8,6 +8,7 @@
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/neukg/TechGPT/blob/main/LICENSE)
 [![Generic badge](https://img.shields.io/badge/🤗-Huggingface%20Repo-green.svg)](https://huggingface.co/neukg)
 </div>
+
 ## 📌 引用
 
 如果使用本项目的代码、数据或模型，请引用本项目。
