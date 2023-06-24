@@ -74,7 +74,7 @@ TechGPT supports single-round dialogue and multi-round dialogue through differen
 
 ## 准备工作 Preparation
 
-由于LLaMA开源协议的限制，本模型仅限于研究和学习用途使用。请严格遵守LLaMA的使用要求和规范。为了确保这一点，我们需要确认您具有LLaMA的原始权重，并来自完全合法渠道。
+**由于LLaMA开源协议的限制，本模型仅限于研究和学习用途使用。请严格遵守LLaMA的使用要求和规范。为了确保这一点，我们需要确认您具有LLaMA的原始权重，并来自完全合法渠道。**
 
 ---
 According to the limitations of the LLaMA open source agreement, this model is limited to research and learning purposes. Please strictly abide by the usage requirements and specifications of LLaMA. To ensure this, we need to confirm that you have LLaMA's original weight and come from a completely legitimate source.
@@ -134,7 +134,7 @@ e765a7740a908b5e166e95b6ee09b94b  ./tokenizer.model.e3b0c44298fc1c149afbf4c8996f
 ```
 2. Decrypt the files using the scripts in https://github.com/neukg/TechGPT/blob/main/utils/decrypt.py
 You can use the following command in Bash.
-Please replace `/path/to_encrypted` with the path where you stored your encrypted file, 
+Please replace `/path/encrypt_weight/` with the path where you stored your encrypted file, 
 replace `/path/to_original_llama_7B` with the path where you stored your original LLaMA-7B file `consolidated.00.pth`, 
 and replace `/path/to_finetuned_model` with the path where you want to save your final trained model.
 ```bash
