@@ -244,6 +244,7 @@ Assistant: 文本：基于视觉语言的多模态的实体关系联合抽取是
 ```
 
 ## 主要贡献者 Contributors
+排名不分先后
 <table>
   <tr>
     <td>
