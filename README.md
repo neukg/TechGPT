@@ -301,7 +301,7 @@ Using this project means that you have carefully read, understood and agreed to 
 Please cite our project when using our code, data or model.
 
 ```
-@misc{BELLE,
+@misc{TechGPT,
   author = {Feiliang Ren, Ning An, Qi Ma, Hei Lei},
   title = {TechGPT: Technology-Oriented Generative Pretrained Transformer},
   year = {2023},
