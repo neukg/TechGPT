@@ -254,21 +254,21 @@ Assistant: 文本：基于视觉语言的多模态的实体关系联合抽取是
       <br>
       <b>Adaning @ Northeastern University</b>
       <br>
-      TechGPT项目的核心开发成员
+      [TechGPT项目的核心开发成员](https://github.com/ADAning)
     </td>
     <td>
       <img src="https://avatars.githubusercontent.com/u/38159292?v=4" alt="Contributor 2" height="150">
       <br>
       <b>Asimok @ Northeastern University</b>
       <br>
-      TechGPT项目的核心开发成员
+      [TechGPT项目的核心开发成员](https://github.com/Asimok)
     </td>
     <td>
       <img src="https://avatars.githubusercontent.com/u/105141916?v=4" alt="Contributor 3" height="150">
       <br>
       <b>abel-nlp @ Northeastern University</b>
       <br>
-      TechGPT项目的核心开发成员
+     [ TechGPT项目的核心开发成员](https://github.com/abel-nlp)
     </td>
   </tr>
   </table>
