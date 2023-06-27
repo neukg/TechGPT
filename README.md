@@ -13,8 +13,8 @@ HuggingFace🤗: [neukg/TechGPT-7B](https://huggingface.co/neukg)
 
 
 ## 简介 Introduction
-TechGPT是[“东北大学知识图谱研究组”](http://faculty.neu.edu.cn/renfeiliang)发布的垂直领域大语言模型。<br>
-主要强化了如下三类任务:
+TechGPT是[“东北大学知识图谱研究组”](http://faculty.neu.edu.cn/renfeiliang)发布的垂直领域大语言模型。目前在[HuggingFace🤗: neukg/TechGPT-7B](https://huggingface.co/neukg)开源了全量微调的7B版本。<br>
+TechGPT主要强化了如下三类任务:
 - 以“知识图谱构建”为核心的关系三元组抽取等各类信息抽取任务
 - 以“阅读理解”为核心的各类智能问答任务。
 - 以“文本理解”为核心的关键词生成等各类序列生成任务。
