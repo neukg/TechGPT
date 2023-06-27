@@ -304,7 +304,7 @@ Please cite our project when using our code, data or model.
 
 ```
 @misc{TechGPT,
-  author = {Feiliang Ren, Ning An, Qi Ma, Hei Lei},
+  author = {Feiliang Ren, Ning An, Qi Ma, Lei Hei},
   title = {TechGPT: Technology-Oriented Generative Pretrained Transformer},
   year = {2023},
   publisher = {GitHub},
