@@ -1,7 +1,7 @@
 from transformers import LlamaTokenizer, AutoModelForCausalLM, AutoConfig, GenerationConfig
 import torch
 
-ckpt_path = '/workspace/BELLE-train/Version_raw/'
+ckpt_path = './ckpt_path'
 load_type = torch.float16
 device = torch.device(0)
 tokenizer = LlamaTokenizer.from_pretrained(ckpt_path)
