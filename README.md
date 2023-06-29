@@ -26,7 +26,7 @@ TechGPT主要强化了如下三类任务:
 TechGPT mainly strengthens the following three types of tasks:
 - Various information extraction tasks such as relation triplet extraction with "knowledge graph construction" as the core
 - Various intelligent question-and-answer tasks centered on "reading comprehension".
-- Various sequence generation tasks such as keyword generation with "text understanding" as the core.
+- Various sequence generation tasks such as keyword generation with "text understanding" as the core.<br/>
 Within these three core natural language processing capabilities, TechGPT also has the ability to process natural language texts in more than ten vertical professional fields such as computer science, materials, machinery, metallurgy, finance, and aerospace.
 TechGPT supports single-round dialogue and multi-round dialogue through different input methods of prompts and instructions, covering domain term extraction, named entity recognition, relation triplet extraction, text keyword generation, title generation abstract, abstract generation title, text field Recognition, machine reading comprehension, basic common sense question and answer, context-based knowledge question and answer, suggestion consultation question and answer, copy generation, CM-EN translation and simple code generation and many other natural language understanding and generation capabilities.
 
