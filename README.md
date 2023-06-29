@@ -265,21 +265,21 @@ Assistant: 文本：基于视觉语言的多模态的实体关系联合抽取是
 排名不分先后
 <table>
   <tr>
-    <td>
+    <td align='center'>
       <img src="https://avatars.githubusercontent.com/u/37218117?v=4" alt="Contributor 1" height="150">
       <br>
-      <b>Adaning @ Northeastern University</b>
+      <b>adaning @ Northeastern University</b>
       <br>
         <a href='https://github.com/ADAning'>TechGPT项目的核心开发成员</a>
     </td>
-    <td>
+    <td align='center'>
       <img src="https://avatars.githubusercontent.com/u/38159292?v=4" alt="Contributor 2" height="150">
       <br>
-      <b>Asimok @ Northeastern University</b>
+      <b>asimok @ Northeastern University</b>
       <br>
         <a href='https://github.com/Asimok'>TechGPT项目的核心开发成员</a>
     </td>
-    <td>
+    <td align='center'>
       <img src="https://avatars.githubusercontent.com/u/105141916?v=4" alt="Contributor 3" height="150">
       <br>
       <b>abel-nlp @ Northeastern University</b>
@@ -288,6 +288,7 @@ Assistant: 文本：基于视觉语言的多模态的实体关系联合抽取是
     </td>
   </tr>
   </table>
+
 
 
 
