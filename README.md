@@ -13,7 +13,7 @@ HuggingFace🤗: [neukg/TechGPT-7B](https://huggingface.co/neukg)
 
 
 ## 简介 Introduction
-TechGPT是[“东北大学知识图谱研究组”](http://faculty.neu.edu.cn/renfeiliang)发布的垂直领域大语言模型。目前在[HuggingFace🤗: neukg/TechGPT-7B](https://huggingface.co/neukg)开源了全量微调的7B版本。<br>
+TechGPT是[“东北大学知识图谱研究组”](http://faculty.neu.edu.cn/renfeiliang)发布的垂直领域大语言模型。目前在[HuggingFace🤗: neukg/TechGPT-7B](https://huggingface.co/neukg)开源了**全量微调**的**7B**版本。<br>
 TechGPT主要强化了如下三类任务:
 - 以“知识图谱构建”为核心的关系三元组抽取等各类信息抽取任务
 - 以“阅读理解”为核心的各类智能问答任务。
@@ -71,6 +71,20 @@ TechGPT supports single-round dialogue and multi-round dialogue through differen
 然而，我们也需要考虑其他因素的影响，例如小车的速度、路面状况等。如果小车的车速过快或者路面湿滑，也可能对事故的发生产生影响。但是，由于提供的信息中没有提到这些细节，所以我们只能基于上述基本判断来回答这个问题。</td>
   </tr>
 </table>
+
+7. **开放域信息抽取**
+<table>   <colgroup>     <col style="width:60%">     <col style="width:40%">   </colgroup>   <tr>     <td>问题</td>     <td>回复</td> </tr>
+<tr>     <td>
+  请抽取出下列句子中的时间, 选手, 赛事名称:<br>文本: 2月8日上午北京冬奥会自由式滑雪女子大跳台决赛中中国选手谷爱凌以188.25分获得金牌！<br></td>
+<td>
+    时间：2月8日上午。<br> 
+    赛事名称：北京冬奥会自由式滑雪女子大跳台比赛决赛。<br>
+    选手：中国选手谷爱凌。
+</td></tr>
+</table>
+
+> TechGPT并未针对开放域信息抽取在微调阶段做训练，该能力是模型**自行泛化**得到的。
+
 
 ## 准备工作 Preparation
 
@@ -169,7 +183,7 @@ md5sum ./*
 
 ## 使用方法 Model Usage
 
-请注意在**训练**和**推理**阶段, 模型接收的输入格式是一致的：
+请注意在**训练**和**推理**阶段, 模型接收的输入格式是一致的。
 
 Please note that the input should be formatted as follows in both **training** and **inference**.
 
